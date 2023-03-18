@@ -1,16 +1,12 @@
-### Hi there 👋
+### Oi meu nome é Christian 
 
-<!--
-**ChristianStipursky/ChristianStipursky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista e Desenvolvedor de Sistemas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desenvolvedor** no Corpo de Bombeiros Militar do Estado do Rio de Janeiro - [CBMERJ](https://www.cbmerj.rj.gov.br/)
+- Conhecimento em: 
+<div display="inline">
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />        
+</div>

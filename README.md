@@ -6,14 +6,14 @@ Analista e Desenvolvedor de Sistemas
 - Conhecimentos em: 
 <div display="inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Logo do Laravel" title="Laravel - Framework PHP"/>
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />   
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />        
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="Logo do CodeIgniter" title="CodeIgniter - Framework PHP"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP" title="PHP - Linguagem"/>
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Logo do C#" title="C# - Linguagem"/>
+  &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Logo do Java" title="Java - Linguagem"/>
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do JavaScript" title="JavaScript - Linguagem"/>
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Logo do Bootstrap" title="Bootstrap - Framework"/>  
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Logo do CodeIgniter" title="CodeIgniter - Framework PHP"/>        
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Logo do CodeIgniter" title="CodeIgniter - Framework PHP"/>   
 </div>
 
 ##

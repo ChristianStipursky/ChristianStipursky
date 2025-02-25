@@ -16,7 +16,7 @@ Analista e Desenvolvedor de Sistemas
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Logo do Android Studio" title="Android Studio - IDE"/>   
   &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="microsoft-power-apps" alt="Logo do Power Apps" title="Power Apps"/>   
   &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021" alt="Logo do Power BI" title="Power BI"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Logo do Android Studio" title="Android Studio - IDE"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
 </div>
 
 ##

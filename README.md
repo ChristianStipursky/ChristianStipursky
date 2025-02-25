@@ -2,10 +2,10 @@
 
 Analista e Desenvolvedor de Sistemas
 
-- **Desenvolvedor** no Corpo de Bombeiros Militar do Estado do Rio de Janeiro - [CBMERJ](https://www.cbmerj.rj.gov.br/)
+- **Desenvolvedor** na Eletronuclear Angra dos Reis - (https://www.eletronuclear.gov.br/Paginas/default.aspx)
 - Conhecimentos em: 
 <div display="inline">
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Logo do Laravel" title="Laravel - Framework PHP"/>
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />   
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />

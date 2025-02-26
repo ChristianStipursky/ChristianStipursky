@@ -1,6 +1,6 @@
 ### Olá, meu nome é Christian 👋
 
-Analista e Desenvolvedor de Sistemas
+Analista e Desenvolvedor de Sistemas Full Stack
 
 - **Desenvolvedor** na Eletronuclear Angra dos Reis - (https://www.eletronuclear.gov.br/Paginas/default.aspx)
 - Conhecimentos em:
@@ -8,6 +8,7 @@ Analista e Desenvolvedor de Sistemas
 <div display="inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Logo do Laravel" title="Laravel - Framework PHP"/>
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="Logo do CodeIgniter" title="CodeIgniter - Framework PHP"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" alt="Logo do Lumen" title="Lumen - Framework PHP"/>
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP" title="Linguagem PHP"/>
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Logo do C#" title="Linguagem C#"/>
   &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Logo do Java" title="Linguagem Java"/>

@@ -3,7 +3,8 @@
 Analista e Desenvolvedor de Sistemas
 
 - **Desenvolvedor** na Eletronuclear Angra dos Reis - (https://www.eletronuclear.gov.br/Paginas/default.aspx)
-- Conhecimentos em: 
+- Conhecimentos em:
+
 <div display="inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Logo do Laravel" title="Laravel - Framework PHP"/>
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="Logo do CodeIgniter" title="CodeIgniter - Framework PHP"/>   
@@ -17,11 +18,11 @@ Analista e Desenvolvedor de Sistemas
   &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="microsoft-power-apps" alt="Logo do Power Apps" title="Power Apps"/>   
   &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021" alt="Logo do Power BI" title="Power BI"/>   
   &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Logo do MS SQL Server" title="MS SQL Server - DataBase"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Logo do PostgreSQL" title="PostgreSQL - DataBase"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Logo do MySQL" title="MySQL - DataBase"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="h" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
   
 </div>
 

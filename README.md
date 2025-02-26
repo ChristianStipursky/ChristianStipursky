@@ -2,7 +2,6 @@
 
 Analista e Desenvolvedor de Sistemas Full Stack
 
-- **Analista de Sistemas** na Concremat Engenharia e Tecnologia - (Eletronuclear - Angra dos Reis)  (https://www.eletronuclear.gov.br/Paginas/default.aspx)
 - Conhecimentos em:
 
 <div display="inline">

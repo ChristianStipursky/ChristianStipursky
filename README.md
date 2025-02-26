@@ -21,8 +21,8 @@ Analista e Desenvolvedor de Sistemas
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Logo do MS SQL Server" title="MS SQL Server - DataBase"/>   
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Logo do PostgreSQL" title="PostgreSQL - DataBase"/>   
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Logo do MySQL" title="MySQL - DataBase"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
-  &nbsp;&nbsp;<img width="50" height="50" src="h" alt="microsoft-power-automate-2020" alt="Logo do Power Automate" title="Power Automate"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="Logo do MongoDB" title="MongoDB - DataBase"/>   
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/couchdb.svg" alt="Logo do CounchDB" title="CounchDB - DataBase"/>   
   
 </div>
 
